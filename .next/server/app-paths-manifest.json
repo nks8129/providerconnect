@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/cases/page": "app/cases/page.js",
+  "/home/page": "app/home/page.js",
+  "/knowledge/page": "app/knowledge/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/providers/[id]/page": "app/providers/[id]/page.js",
+  "/page": "app/page.js",
+  "/outreach/page": "app/outreach/page.js",
+  "/providers/page": "app/providers/page.js",
+  "/interactions/page": "app/interactions/page.js",
+  "/reports/page": "app/reports/page.js"
+}

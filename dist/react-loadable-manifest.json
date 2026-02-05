@@ -1,0 +1,20 @@
+{
+  "stores/app-store.ts -> ./cases-store": {
+    "id": 92210,
+    "files": [
+      "static/chunks/210-46a44b60be044c43.js"
+    ]
+  },
+  "stores/app-store.ts -> ./interactions-store": {
+    "id": 11508,
+    "files": [
+      "static/chunks/508.21118847cba9088b.js"
+    ]
+  },
+  "stores/app-store.ts -> ./providers-store": {
+    "id": 62571,
+    "files": [
+      "static/chunks/571.842faeefb89b0bd4.js"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[974],{48546:function(){Promise.resolve().then(function(){var n=Error("Cannot find module '/Users/niharikasingh/Documents/provider payor/src/app/providers/[id]/provider-detail-client.tsx'");throw n.code="MODULE_NOT_FOUND",n})}},function(n){n.O(0,[971,117,744],function(){return n(n.s=48546)}),_N_E=n.O()}]);
